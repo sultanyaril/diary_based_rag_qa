@@ -1,6 +1,6 @@
 # Diary-based RAG Question Answering System
 
-A Retrieval-Augmented Generation (RAG) system that allows you to ask questions about your diary PDFs using LangChain and OpenAI.
+A Retrieval-Augmented Generation (RAG) system that allows you to ask questions about your journal PDFs using LangChain and OpenAI.
 
 ## Features
 
